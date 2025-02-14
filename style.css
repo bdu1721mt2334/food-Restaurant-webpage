@@ -1,0 +1,215 @@
+* {
+    padding: 0;
+    margin: 0;
+ 
+ }
+
+.container {
+    padding: 50px;
+    
+    
+
+}
+
+.hotal-one {
+    background-color: black;
+    color: aliceblue;
+    padding: 20px;
+    text-align: center;
+
+}
+
+.hotal-one__name {
+    font-size: 50px;
+}
+
+.hotal-one__content {
+    font-size: 20px;
+    color: rgb(78, 78, 78);
+}
+
+.container_two {
+    text-align: center;
+}
+
+.hotal-two {
+    background-color: antiquewhite;
+    margin-top: 10px;
+    display: inline-block;
+    border: 7px;
+    border-color: black;
+    
+}
+
+.hotal-two__foodone {
+    padding: 10px; 
+   
+}
+
+.hotal-two__foodname, .hotal-two__foodcon, .tal-two__foodbtn {
+    text-align: center;
+}
+
+
+.hotal-two__foodbtn {
+    padding: 10px;
+    background-color: black;
+    color: orangered;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+
+}
+
+
+
+
+.hotal-three {
+    background-color: antiquewhite;
+    margin-top: 20px;
+    display: inline-block;
+    border: 7px;
+    border-color: black;
+    
+}
+
+.hotal-three__foodtwo {
+    padding: 10px; 
+   
+}
+
+.hotal-three__foodname, .hotal-three__foodcon, .tal-three__foodbtn {
+    text-align: center;
+}
+
+.hotal-three__foodbtn {
+    padding: 10px;
+    background-color: black;
+    color: orangered;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.hotal-four {
+    background-color: antiquewhite;
+    margin-top: 20px;
+    display: inline-block;
+    border: 7px;
+    border-color: black;
+    
+}
+
+.hotal-four__foodthree {
+    padding: 10px; 
+   
+}
+
+.hotal-four__foodname, .hotal-four__foodcon, .tal-four__foodbtn {
+    text-align: center;
+}
+
+.hotal-four__foodbtn {
+    padding: 10px;
+    background-color: black;
+    color: orangered;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+
+.hotal-five {
+    background-color: antiquewhite;
+    margin-top: 20px;
+    display: inline-block;
+    border: 7px;
+    border-color: black;
+    
+}
+
+.hotal-five__foodfour {
+    padding: 10px; 
+   
+}
+
+.hotal-five__foodname, .hotal-five__foodcon, .tal-five__foodbtn {
+    text-align: center;
+}
+
+.hotal-five__foodbtn {
+    padding: 10px;
+    background-color: black;
+    color: orangered;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.hotal-six {
+    text-align: center;
+    background-color: black;
+    color: aliceblue;
+    margin-top: none;
+}
+
+.hotal-six__contact {
+    margin-top: 20px;
+    padding-top: 20px;
+   
+}
+
+
+
+.hotal-six__form {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    display: inline-block;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+   
+
+}
+
+.hotal-six__btn {
+    background-color:antiquewhite ;
+    padding:5px;
+    width: 500px;
+    color: orangered;
+    margin-top: 10px;
+    margin-bottom: 10px;
+   
+    
+}
+
+.hotal-six__name, .hotal-six__age, .hotal-six__email {
+    padding: 3px;
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
