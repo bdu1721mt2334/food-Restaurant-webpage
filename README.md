@@ -19,3 +19,5 @@ Technologies Used
     HTML5 for structuring the content
 
     CSS3 for designing and layout
+
+    Thank you for visiting page 
